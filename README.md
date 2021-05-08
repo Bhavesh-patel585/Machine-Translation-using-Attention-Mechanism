@@ -19,7 +19,7 @@ The code will be implemented using TensorFlow 2.0, and data can be downloaded fr
 3. Predictions
 
 # Results
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg" width="300">
 
 <img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot.png">
 
