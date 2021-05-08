@@ -23,10 +23,10 @@ The code will be implemented using TensorFlow 2.0, and data can be downloaded fr
 
 <img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot.png" width="500">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore.jpeg" width="300">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore.jpeg" width="500">
 
 <img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg" width="300">
 
 <img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot2.png" width="500">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore2.jpeg" width="300">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore2.jpeg" width="500">
