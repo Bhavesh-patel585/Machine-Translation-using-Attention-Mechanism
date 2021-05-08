@@ -21,12 +21,12 @@ The code will be implemented using TensorFlow 2.0, and data can be downloaded fr
 # Results
 <img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg" width="300">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot.png">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot.png"width="500">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore.jpeg">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore.jpeg"width="300">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/predict.jpeg"width="300">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot2.png">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/attentionplot2.png"width="500">
 
-<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore2.jpeg">
+<img src="https://github.com/Bhavesh-patel585/Machine-Translation-using-Attention-Mechanism/blob/main/results/bleuscore2.jpeg"width="300">
